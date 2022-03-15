@@ -22,7 +22,7 @@ características têm maior importância para nós do que outras.
 
 ## Prazo
 
-- Serão avaliados os projetos entregues até o dia 05/12/2021 (domingo).
+- Serão avaliados os projetos entregues até o dia 20/03/2022 (domingo).
 
 Fique a vontade para utilizar bibliotecas externas.
 Pedimos que trabalhe sozinho e não divulgue o resultado na internet.
